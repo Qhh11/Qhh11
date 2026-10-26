@@ -1,28 +1,30 @@
 <h1 align="center">Hi, I'm Yuqing Feng 👋</h1>
-<p align="center"><strong>Computer Vision · 3D Geometry · Interactive Systems</strong><br>M.Sc. Informatics · Technical University of Munich</p>
+<p align="center"><strong>Computer Vision · 3D Geometry · Interactive Learning & XR</strong><br>M.Sc. Informatics · Technical University of Munich</p>
 
-I'm an Informatics master's student at TUM with a B.Sc. in Informatics: Game Engineering. I enjoy working where visual computing meets interaction — reconstructing 3D motion, exploring shape correspondence, and building AR experiences.
+I'm an Informatics master's student at TUM with a B.Sc. in Informatics: Game Engineering. I work where visual computing meets interaction — from 3D motion and shape correspondence to learning games and immersive experiences.
 
-My experience spans Python and C# development, C++ geometry processing, and HLSL/compute shaders. I like turning research ideas into systems people can see, use, and explore.
-
-### What I've worked on
-
-- **3D geometry learning:** boundary-aware anisotropic Laplacians and DiffusionNet-based features for partial-to-full shape correspondence.
-- **Computer vision and simulation:** video-based human motion reconstruction and virtual camera image acquisition in NVIDIA Isaac Sim.
-- **Learning through interaction:** an educational human–robot interaction platform at ETH PEACH Lab and a browser-based multiplayer learning game built with Unity/WebGL.
-- **Teaching:** programming exercises, Q&A support, and assignment grading for Fundamentals of Artificial Intelligence.
+I enjoy turning technical ideas into things people can explore: a programming lesson inside a game, music controls in VR, or an interactive view of a 3D model.
 
 ### Selected projects
 
-| Project | Focus | Technologies |
+| Project | What it explores | Stack |
 | --- | --- | --- |
-| [EmotiConnection](https://github.com/Qhh11/emoticonnection) | Emotional journaling, conversational AI, and peer support | React, TypeScript, Python, FastAPI, Gemini |
-| [AR Music Space](https://github.com/Qhh11/ar-music-space) | Mobile AR instrument interaction | Unity, C#, Android |
-| [3DUI](https://github.com/Qhh11/3dui) | Mobile AR puzzle game | Unity, C#, AR Foundation |
-| [Body Animation](https://github.com/Qhh11/body_animation) | Parametric body models, forward kinematics, and skinning | C++, Eigen, Ceres, SMPL/STAR |
-| [Space Bouncer](https://github.com/Qhh11/spaceshooter) | Two-player cooperation: use a rope between spaceships to bounce comets away from a planet | Unity, cooperative gameplay |
+| **[PyGalaxy](https://github.com/Qhh11/pygalaxy)** | **Interactive learning:** a space-themed WebGL game teaching Python through guided tasks, quizzes, and feedback | Unity, C#, WebGL |
+| **[DiscoBall](https://github.com/Qhh11/discoball)** | **Virtual reality:** music interaction linking audio, visual feedback, and character animation | Unity, C#, Oculus, XR Interaction Toolkit |
+| **[3DUI](https://github.com/Qhh11/3dui)** | **Mobile AR:** a puzzle game exploring spatial interaction and touch-based controls | Unity, C#, AR Foundation |
+| **[Body Animation](https://github.com/Qhh11/body_animation)** | **3D graphics:** parametric human body models, forward kinematics, and linear blend skinning | C++, Eigen, Ceres, SMPL/STAR |
+| **[EmotiConnection](https://github.com/Qhh11/emoticonnection)** | **AI application development:** emotional journaling, conversational AI, and real-time peer support | React, TypeScript, FastAPI, Gemini |
 
-These repositories include collaborative work; original contributor credits belong to the respective teams.
+More experiments: [AR Music Space — mobile AR instruments](https://github.com/Qhh11/ar-music-space) · [Space Bouncer — cooperative physics gameplay](https://github.com/Qhh11/spaceshooter).
+
+These projects include collaborative work. Contributor credits and third-party notices are preserved in the individual repositories.
+
+### Research & experience
+
+- **3D geometry learning:** boundary-aware anisotropic Laplacians and DiffusionNet-based features for partial-to-full shape correspondence.
+- **Vision & simulation:** video-based human motion reconstruction and virtual camera image acquisition in NVIDIA Isaac Sim.
+- **Learning & interaction:** an educational human–robot interaction platform at ETH PEACH Lab, alongside Unity/WebGL learning-game development.
+- **Teaching:** programming exercises, Q&A support, and assignment grading for Fundamentals of Artificial Intelligence.
 
 ### Toolbox
 
@@ -30,6 +32,6 @@ These repositories include collaborative work; original contributor credits belo
 **Vision & scientific computing:** PyTorch · OpenCV · NumPy · SciPy · Matplotlib  
 **3D & interactive development:** Unity · Unreal Engine · NVIDIA Isaac Sim · Blender
 
-### Beyond the code
+### Let's connect
 
-I speak Chinese, English, and German, and enjoy collaborating across research, design, and development. Feel free to pm me for collaboration.
+I speak Chinese, English, and German, and enjoy collaborating across research, design, and development. Feel free to reach out about visual computing, interactive learning, or XR projects.
