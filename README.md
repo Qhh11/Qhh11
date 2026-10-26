@@ -16,10 +16,10 @@ My experience spans Python and C# development, C++ geometry processing, and HLSL
 
 | Project | Focus | Technologies |
 | --- | --- | --- |
-| [EmotiConnection](https://gitlab.lrz.de/genai/emoticonnection) | Emotional journaling, conversational AI, and peer support | React, TypeScript, Python, FastAPI, Gemini |
-| [AR Music Space](https://gitlab.lrz.de/00000000014B3F3B/ar-music-space) | Mobile AR instrument interaction | Unity, C#, Android |
-| [3DUI](https://gitlab.lrz.de/00000000014B3F3B/3dui) | Mobile AR puzzle game | Unity, C#, AR Foundation |
-| [Body Animation](https://gitlab.lrz.de/3dsmc_finalproject/body_animation) | Parametric body models, forward kinematics, and skinning | C++, Eigen, Ceres, SMPL/STAR |
+| [EmotiConnection](https://github.com/Qhh11/emoticonnection) | Emotional journaling, conversational AI, and peer support | React, TypeScript, Python, FastAPI, Gemini |
+| [AR Music Space](https://github.com/Qhh11/ar-music-space) | Mobile AR instrument interaction | Unity, C#, Android |
+| [3DUI](https://github.com/Qhh11/3dui) | Mobile AR puzzle game | Unity, C#, AR Foundation |
+| [Body Animation](https://github.com/Qhh11/body_animation) | Parametric body models, forward kinematics, and skinning | C++, Eigen, Ceres, SMPL/STAR |
 | [Space Bouncer](https://github.com/Qhh11/spaceshooter) | Two-player cooperation: use a rope between spaceships to bounce comets away from a planet | Unity, cooperative gameplay |
 
 These repositories include collaborative work; original contributor credits belong to the respective teams.
