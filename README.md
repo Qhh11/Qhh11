@@ -32,4 +32,4 @@ These repositories include collaborative work; original contributor credits belo
 
 ### Beyond the code
 
-I speak Chinese, English, and German, and enjoy collaborating across research, design, and development. Looking forward to building with others at **Sphere Hackathon forge#1**.
+I speak Chinese, English, and German, and enjoy collaborating across research, design, and development. Feel free to pm me for collaboration.
